@@ -1,6 +1,6 @@
 # Kittens
 
-## Get All Kittens
+## Get All Kittens :cat:
 
 ```shell
 curl "http://example.com/api/kittens"
